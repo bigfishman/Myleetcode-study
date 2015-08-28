@@ -6,3 +6,11 @@
 [Dungeon Game] (https://github.com/bigfishman/Myleetcode-study/blob/master/Dungeon%20Game.markdown "")
 
 [Kth Largest Element in an Array ](https://github.com/bigfishman/Myleetcode-study/blob/master/Kth%20Largest%20Element%20in%20an%20Array.md "")
+
+[Pow(x,n)](https://github.com/bigfishman/Myleetcode-study/blob/master/Pow(x%2Cn).markdown "")
+
+[Kth Smallest Element in a BST](https://github.com/bigfishman/Myleetcode-study/blob/master/Kth%20Smallest%20Element%20in%20a%20BST.markdown "")
+
+[Lowest Common Ancestor of a Binary Search Tree](https://github.com/bigfishman/Myleetcode-study/blob/master/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.m "")
+
+[count and say](https://github.com/bigfishman/Myleetcode-study/blob/master/count%20and%20say.markdown "")
